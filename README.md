@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/f5942912-f512-4266-a1cf-1c86f948020d" />
+
 #PINK PAWS CAFE
 THIS IS A WEBSITE MADE FOR CAT CAFE CALLED PINKPAWS CAFE
 NAVIGATE THROUGH OUR WEBSITE TO EXLORE MORE
@@ -8,6 +8,8 @@ THE FEEDBACK THE CUSTOMER GIVES GET INSTANTLY DISPLAYED ON THE SCREEN FOFR OTHER
 OUR WEBSITE IS MADE CLEAN SO THAT PEOPLES OF ANY AGE GROUP CAN NAVIGATE THROUGH EASILY AND NOT GET FRUSTRATED 
 THANK YOU!!
 PLS VISIT OUR CAFE #PinkPawsCafe
+
+<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/f5942912-f512-4266-a1cf-1c86f948020d" />
 
 <img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/46282be6-a8fc-43c3-8471-17111ae79034" />
 
