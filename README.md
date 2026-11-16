@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Pink Paws Cafe Website Showcase" src="https://github.com/user-attachments/assets/e965825d-2f5d-4899-aab3-01c2fd00bc1b" />
 
 #PINK PAWS CAFE
 THIS IS A WEBSITE MADE FOR CAT CAFE CALLED PINKPAWS CAFE
