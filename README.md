@@ -14,6 +14,7 @@ PLS VISIT OUR CAFE #PinkPawsCafe
 
 <img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/46282be6-a8fc-43c3-8471-17111ae79034" />
 
-<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/d7098dc3-4756-4c00-91c8-e9bad3303645" />
+<img width="893" height="400" alt="Screenshot 2026-11-16 094842" src="https://github.com/user-attachments/assets/804bd952-0cba-4978-bb9a-124ee0069dec" />
+<img width="889" height="279" alt="Screenshot 2026-11-16 094719" src="https://github.com/user-attachments/assets/b908f9ad-1b8d-47d3-b6f4-99cc5d04705d" />
+<img width="899" height="287" alt="Screenshot 2026-11-16 094711" src="https://github.com/user-attachments/assets/70991b13-201e-48df-bbdb-5c09c6eefd28" />
 
-<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/8a66a28d-982b-45e4-b400-3cfd3cce7e4a" />
